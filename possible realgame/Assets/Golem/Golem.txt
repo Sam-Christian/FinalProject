@@ -1,0 +1,37 @@
+Characters Golem for Most of the games.<br>
+Characters can be inserted into an RPG,<br>
+Shooter, Horror, fantasy.<br>
+Location of creating a forest,<br>
+swamps,caves,sewers and other dark places.<br>
+
+RPG Golem
+
+PBR textures(Metallic Sheder)
+
+Contains 9 animations
+
+-Walk(0-50)
+-Run(51-91)
+-Idle(92-172)
+-Shout(173-300)
+-Attack(1)(301-415)
+-Attack(2)(416-550)
+-Attack(3)(551-640)
+-Get Hit(641-690)
+-Dead(691-765)
+
+
+PBR textures.
+
+-Albedo
+-AO
+-Metallic
+-Normal
+(all 2048-2048 size)
+
+
+Polys: 8,0845
+
+Tris:  15,398
+
+Verts: 8,240
